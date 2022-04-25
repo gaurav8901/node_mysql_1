@@ -1,0 +1,3 @@
+ npm install --save express express-handlebars mysql body-parser
+ npm install --save-dev nodemon
+ nodemon server.js
